@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Natali-fe-deploy/static/css/main.1fdca333.css",
-    "main.js": "/Natali-fe-deploy/static/js/main.68427416.js",
+    "main.js": "/Natali-fe-deploy/static/js/main.80132e99.js",
     "static/js/787.91dcf658.chunk.js": "/Natali-fe-deploy/static/js/787.91dcf658.chunk.js",
     "static/media/trophy.gif": "/Natali-fe-deploy/static/media/trophy.23b114e7cbc4d010d79b.gif",
     "static/media/varela-round-all-400-normal.woff": "/Natali-fe-deploy/static/media/varela-round-all-400-normal.3be5b4486e6fd4578dc6.woff",
@@ -13,11 +13,11 @@
     "static/media/varela-round-hebrew-400-normal.woff2": "/Natali-fe-deploy/static/media/varela-round-hebrew-400-normal.0fcbe8389a01f732b8c0.woff2",
     "index.html": "/Natali-fe-deploy/index.html",
     "main.1fdca333.css.map": "/Natali-fe-deploy/static/css/main.1fdca333.css.map",
-    "main.68427416.js.map": "/Natali-fe-deploy/static/js/main.68427416.js.map",
+    "main.80132e99.js.map": "/Natali-fe-deploy/static/js/main.80132e99.js.map",
     "787.91dcf658.chunk.js.map": "/Natali-fe-deploy/static/js/787.91dcf658.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fdca333.css",
-    "static/js/main.68427416.js"
+    "static/js/main.80132e99.js"
   ]
 }
