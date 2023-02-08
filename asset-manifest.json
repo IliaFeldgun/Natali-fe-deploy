@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Natali-fe-deploy/static/css/main.1fdca333.css",
+    "main.js": "/Natali-fe-deploy/static/js/main.68427416.js",
+    "static/js/787.91dcf658.chunk.js": "/Natali-fe-deploy/static/js/787.91dcf658.chunk.js",
+    "static/media/trophy.gif": "/Natali-fe-deploy/static/media/trophy.23b114e7cbc4d010d79b.gif",
+    "static/media/varela-round-all-400-normal.woff": "/Natali-fe-deploy/static/media/varela-round-all-400-normal.3be5b4486e6fd4578dc6.woff",
+    "static/media/varela-round-latin-400-normal.woff2": "/Natali-fe-deploy/static/media/varela-round-latin-400-normal.b18752a07bf278616d85.woff2",
+    "static/media/varela-round-latin-ext-400-normal.woff2": "/Natali-fe-deploy/static/media/varela-round-latin-ext-400-normal.99a584d69f8acae14cfe.woff2",
+    "static/media/AniAlZeLogo.png": "/Natali-fe-deploy/static/media/AniAlZeLogo.c27928c603e81672c4aa.png",
+    "static/media/experience.png": "/Natali-fe-deploy/static/media/experience.f48c712d774ceb3e3676.png",
+    "static/media/varela-round-vietnamese-400-normal.woff2": "/Natali-fe-deploy/static/media/varela-round-vietnamese-400-normal.f77330ccb5709a0c4458.woff2",
+    "static/media/varela-round-hebrew-400-normal.woff2": "/Natali-fe-deploy/static/media/varela-round-hebrew-400-normal.0fcbe8389a01f732b8c0.woff2",
+    "index.html": "/Natali-fe-deploy/index.html",
+    "main.1fdca333.css.map": "/Natali-fe-deploy/static/css/main.1fdca333.css.map",
+    "main.68427416.js.map": "/Natali-fe-deploy/static/js/main.68427416.js.map",
+    "787.91dcf658.chunk.js.map": "/Natali-fe-deploy/static/js/787.91dcf658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fdca333.css",
+    "static/js/main.68427416.js"
+  ]
+}
